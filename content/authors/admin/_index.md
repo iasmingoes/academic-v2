@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Iasmin Goes
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,38 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Junior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carlos III - Juan March Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+<!-- interests:
+- Natural Resources
+- Public Revenue 
+- Social Policy
+- Time Series Analysis
+- Natural Language Processing
+ -->
 
-education:
+<!-- education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD Government
+    institution: University of Texas at Austin
+    year: 2020
+  - course: MS Statistics
+    institution: University of Texas at Austin
+    year: 2019
+  - course: MA Latin American Studies
+    institution: Freie Universität Berlin
+    year: 2015
+  - course: BA Political Science
+    institution: Freie Universität Berlin
+    year: 2012 -->
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +50,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:iasmin@utexas.edu
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
+  link: https://twitter.com/iasmin_goes
+- icon: linkedin
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/iasmin-goes/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Junior Research Fellow at the [Carlos III -- Juan March Institute](https://ic3jm.es/en) in Madrid, where I study the political economy of natural resources. My research examines how and when resource-rich governments invest in durable public goods, instead of using revenue from oil, gas, or mining for short-term political gain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I hold a PhD in Government and an MS in Statistics from the [University of Texas at Austin](https://www.utexas.edu), in addition to degrees in Political Science and Latin American Studies from [Freie Universität Berlin](https://www.fu-berlin.de/en/index.html). I was born in Brazil and named Iasmin (rather than the more traditional variant Yasmin) because Y was not a letter of the [Portuguese alphabet](https://en.wikipedia.org/wiki/Portuguese_orthography) at the time.
