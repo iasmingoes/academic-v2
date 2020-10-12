@@ -2,7 +2,7 @@
 title: "Examining the Effect of IMF Conditionality on Natural Resource Policy"
 authors:
 - admin
-date: "2020-04-01T00:00:00Z"
+date: "2020-10-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -26,8 +26,7 @@ tags:
 featured: true
 
 links:
-#- name: Custom Link
-# url_pdf: 
+url_pdf: "imf.pdf"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -43,7 +42,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-Can IMF lending improve natural resource governance in borrowing countries? While most IMF agreements mandate policy reforms in exchange for financial support, compliance with these reforms is often mixed at best. Since resource windfalls enable short-term increases in discretionary spending, office-seeking politicians are often unwilling to forgo this discretion by reforming the oil, gas, or mining sector. Given these expectations, I investigate how and when borrowing governments go against their political interests and comply with IMF conditions requiring natural resource policy reform. Using global data on IMF lending and natural resource policy between 1980 and 2019, I show that borrowers are more likely to reform the natural resource sector when they are under an IMF agreement, though less so if the agreement includes general fiscal conditions that are not specifically related to natural resources. However, the effectiveness of these agreements is highly dependent on context. Reforms are more likely when the IMF can credibly threaten to suspend loan payments or when leaders in the borrowing country have the institutional capacity to implement such reforms.
+Can IMF lending improve natural resource governance in borrowing countries? While most IMF agreements mandate policy reforms in exchange for financial support, compliance with these reforms is mixed at best. The natural resource sector should be no exception. After all, resource windfalls enable short-term increases in discretionary spending, and office-seeking politicians are often unwilling to forgo this discretion by reforming the oil, gas, or mining sector. I investigate how and when borrowers go against their political interests and establish natural resource funds -- a tool often promoted by the IMF -- in the wake of a loan agreement. Using text analysis, statistical models, and qualitative evidence from natural resource policy and IMF conditionality for 74 countries between 1980 and 2019, I show that governments under an IMF agreement are more likely to create or regulate a resource fund, particularly if the agreement includes conditions that highlight the salience of fiscal reforms. However, the effectiveness of these conditions is highly dependent on context: reforms are more likely when the IMF can credibly threaten to suspend loan payments. This study contributes to extant research not only by introducing a novel dataset on country-level natural resource policy, but also, more broadly, by identifying under what circumstances international reform efforts can lead to changes in domestic legislation.
 
 ![São Tomé and Príncipe’s 2000 Oil Law](featured.png)
 *São Tomé and Príncipe’s 2000 Oil Law*
