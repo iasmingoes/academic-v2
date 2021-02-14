@@ -18,14 +18,14 @@
   url = "#projects"
   weight = 30
 
-  # [[main]]
-#  name = "Contact"
-#  url = "#contact"
-#  weight = 40
+[[main]]
+  name = "Teaching"
+  url = "#teaching"
+  weight = 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
-  url = "files/CV-Goes-Oct2020.pdf"
-  weight = 40
+  url = "files/CV-Goes-Feb2021.pdf"
+  weight = 50
