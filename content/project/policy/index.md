@@ -2,7 +2,7 @@
 title: "Short-Term Politics, Long-Term Policy: Developing Institutions to Combat the Resource Curse"
 authors:
 - admin
-date: "2020-05-05T00:00:00Z"
+date: "2020-10-05T00:00:00Z"
 doi: ""
 
 # Publication type.
