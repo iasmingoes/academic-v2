@@ -19,7 +19,7 @@ publication: ""
 publication_short: ""
 
 # Summary. An optional shortened abstract.
-summary: IMF lending promotes governance in the extractive sector.
+summary: IMF lending promotes good governance in the extractive sector.
 
 tags:
 - Working Paper
