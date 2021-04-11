@@ -14,7 +14,7 @@ role: Junior Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Carlos III - Juan March Institute
+- name: Carlos III – Juan March Institute
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
